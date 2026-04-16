@@ -1,5 +1,5 @@
 // BOTONES DE LAS CARD PARA ABRIR LA MODAL
-let botones = document.querySelectorAll(".btn-modal");
+let botones = document.querySelectorAll(".btn-primary");
 
 botones.forEach(boton => {
     boton.addEventListener("click", function(){
